@@ -1,9 +1,8 @@
 # echo lab
 > about the app.
 
-check out my app: http://34.134.193.64 
+check out my app: https://anna.barrycumbie.com/
 
-website: https://anna.barrycumbie.com/
-
+[repo](repo url)
 
 by [anna](https://github.com/annamcferrin)
