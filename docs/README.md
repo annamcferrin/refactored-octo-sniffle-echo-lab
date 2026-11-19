@@ -1,8 +1,12 @@
 # echo lab
-> about the app.
+>a static front end web app via GCP
 
-check out my app: https://anna.barrycumbie.com/
+production app: https://anna.barrycumbie.com/
 
-[repo](repo url)
+GCP IP address: 34.134.193.64
+
+GitHub repository: https://github.com/annamcferrin/refactored-octo-sniffle-echo-lab
+
+GitHub profile: https://github.com/annamcferrin
 
 by [anna](https://github.com/annamcferrin)
